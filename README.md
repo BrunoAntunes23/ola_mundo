@@ -1,2 +1,4 @@
-# ola_mundo
- 1º aula pratica curso git-guanabara
+# Olá, Mundo!
+ Primeiro repositorio do curso de git e guithub
+
+ Repositorio criado durante uma aula do curso de git e github do curso em video em 29/12/2020 
